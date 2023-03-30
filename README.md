@@ -6,13 +6,13 @@ Donkey Simulator用データ共有リポジトリ
 
 ```
 .
-├── day1
+├── teamA
 │   ├── data
 │   └── model
-├── day2
+├── teamB
 │   ├── data
 │   └── model
-└── day3
+└── teamC
     ├── data
     └── model
 ```
